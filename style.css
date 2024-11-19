@@ -99,7 +99,7 @@ p {
 }
 
 .supervisor {
-    background-image: url(four-card-feature-section-master/images/icon-supervisor.svg);
+    background-image: url(images/icon-supervisor.svg);
     background-repeat: no-repeat;
     background-position: right bottom;
     height: 30vh;
@@ -107,7 +107,7 @@ p {
 }
 
 .team {
-    background-image: url(four-card-feature-section-master/images/icon-team-builder.svg);
+    background-image: url(images/icon-team-builder.svg);
     background-repeat: no-repeat;
     background-position: right bottom;
     height: 30vh;
@@ -115,7 +115,7 @@ p {
 }
 
 .karma {
-    background-image: url(four-card-feature-section-master/images/icon-karma.svg);
+    background-image: url(images/icon-karma.svg);
     background-repeat: no-repeat;
     background-position: right bottom;
     height: 30vh;
@@ -123,7 +123,7 @@ p {
 }
 
 .calculator {
-    background-image: url(four-card-feature-section-master/images/icon-calculator.svg);
+    background-image: url(images/icon-calculator.svg);
     background-repeat: no-repeat;
     background-position: right bottom;
     height: 30vh;
